@@ -98,3 +98,10 @@ body{
     z-index: -1;
     display: flex;
 }
+.footer {
+    position:fixed;
+    bottom:0;
+    text-align: center;
+    color: antiquewhite;
+    padding: 15PX;
+}
